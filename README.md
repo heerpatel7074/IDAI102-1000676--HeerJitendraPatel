@@ -743,3 +743,5 @@ Through its combination of **functionality, interactivity, visual design, and so
 ### 🌱 ShopImpact
 
 **Track your choices. Understand your impact. Shop more consciously.**
+streamlit link:https://idai102-1000676--heerjitendrapatel-lhscgnodjyngxdzydvrq38.streamlit.app/
+
